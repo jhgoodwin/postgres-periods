@@ -46,7 +46,7 @@ SELECT * FROM example__as_of('2024-01-01');
 
 ## License
 
-- This container image is licensed under the PostgreSQL License
+- This container image is licensed under the MIT License
 - The periods extension is licensed under the PostgreSQL License
 
 ## Contributing
